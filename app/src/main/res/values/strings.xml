@@ -1,0 +1,21 @@
+<resources>
+
+
+    <string name="hello">Geo Snap has been loaded.</string>
+    <string name="app_name">TEAM GLOBAL-Geo_Snap</string>
+    <string name="title_activity_login_signin">Log in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_userid">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log in</string> action_register
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This User ID address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
